@@ -1,6 +1,3 @@
-# Generating the markdown file
-file_content = """# th23 Birthday Calendar (Gemini Edition)
-
 ## Introduction
 
 This is a customized and modernized fork of the original **th23 Birthday Calendar** script. It automates the synchronization of birthdays from **Google Contacts** into a designated **Google Calendar**.
@@ -141,5 +138,3 @@ This project is licensed under the MIT License - see the [original repository](h
 - **German Localization:** Defaulted date formats and titles to German standards.
 
 ---
-*Documentation generated automatically.*
-"""
