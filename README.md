@@ -143,6 +143,3 @@ This project is licensed under the MIT License - see the [original repository](h
 ---
 *Documentation generated automatically.*
 """
-
-with open('README_Gemini_Edition.md', 'w') as f:
-    f.write(file_content)
